@@ -27,7 +27,7 @@ Works alongside automatic updates too.
 Pro adds automation, reports and integrations on top of the free version
 (one license = one site, 12 months of updates):
 
-https://yodsira.duckdns.org/buy/update-sentinel
+https://yodsira.com/buy/update-sentinel
 
 == Installation ==
 
