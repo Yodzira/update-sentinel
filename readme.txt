@@ -1,5 +1,5 @@
 === Update Sentinel ===
-Contributors: yodzira
+Contributors: yodsira
 Tags: updates, health check, rollback, monitoring, ttfb
 Requires at least: 6.0
 Tested up to: 7.1
